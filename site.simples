@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Seu Negócio</title>
+
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.btn {
+  background: green;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+img {
+  width: 80%;
+  max-width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <h1>Barbearia do João 💈</h1>
+  <p>Corte moderno e atendimento rápido</p>
+  <a class="btn" href="https://wa.me/5599999999999">Agendar no WhatsApp</a>
+</div>
+
+<div class="container">
+  <h2>Sobre</h2>
+  <p>Mais de 5 anos cuidando do seu visual.</p>
+</div>
+
+<div class="container">
+  <h2>Serviços</h2>
+  <p>✂️ Corte masculino</p>
+  <p>🧔 Barba</p>
+  <p>🔥 Sobrancelha</p>
+</div>
+
+<div class="container">
+  <h2>Fotos</h2>
+  <img src="foto1.jpg">
+  <img src="foto2.jpg">
+</div>
+
+<div class="container">
+  <h2>Avaliações</h2>
+  <p>⭐⭐⭐⭐⭐ “Melhor da cidade!”</p>
+</div>
+
+<div class="container">
+  <a class="btn" href="https://wa.me/5599999999999">
+    📲 Agendar agora
+  </a>
+</div>
+
+</body>
+</html>
